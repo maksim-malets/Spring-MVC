@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="spring-aop-5.2.8.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jar_files/spring-aop-5.2.8.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/spring-beans-5.2.8.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/spring-context-5.2.8.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/spring-core-5.2.8.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/spring-expression-5.2.8.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/spring-jcl-5.2.8.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/spring-web-5.2.8.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/spring-webmvc-5.2.8.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
